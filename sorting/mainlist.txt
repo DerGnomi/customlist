@@ -40237,6 +40237,7 @@ hb.1rx.io
 hb-247.com
 hb.adomik.com
 hb.adtelligent.com
+hb.adtelligent.com
 hb.adx2.adform.net
 hb.adx.adform.net
 hb-analytics.hotstar.com
@@ -71638,6 +71639,7 @@ player.1800coupon.com
 player.1stcreditrepairs.com
 player.800directories.com
 player.accoona.com
+player.adtelligent.com
 player.adtelligent.com
 player.alfa.smartlook.com
 player.alloutwedding.com
